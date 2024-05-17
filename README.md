@@ -2,12 +2,12 @@
 
 I'm Python Developer, currently learning at HEXLET.
 
-To contact me: just send email to donoriono@gmail.com or t2way@yandex.ru
+To contact me: just send email to donoriono@gmail.com
 
 ## My tech stack:
 
-Python Flask Git GitHub Poetry SQL HTML/CSS PyTest Flake8 CodeClimate
+Python Flask Django Git GitHub Poetry SQL HTML/CSS
 
 ## I'm using:
 
-VSCode PyCharm 
+VSCode PyCharm Terminal
