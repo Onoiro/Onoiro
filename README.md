@@ -1,13 +1,17 @@
 ## Hi!
 
-I'm Python Developer, currently learning at [HEXLET](https://ru.hexlet.io/)
+#### I'm Python Backend Developer
 
-To contact me: just send email to donoriono@gmail.com
+I build web applications using **Python** in my free time.  
+My main tools:  
+- **Flask** and **Django** frameworks  
+- **Docker** for containers  
+- **PostgreSQL** databases  
+- **Git** for code management  
 
-## My tech stack:
+I deploy projects myself. I code in VS Code and use terminals.
 
-Python Flask Django Git GitHub Poetry SQL HTML/CSS
+Always learning new things. Finished [HEXLET](https://ru.hexlet.io/) Python Developer course.
 
-## I'm using:
-
-VSCode PyCharm Terminal
+Open to work together on web projects.  
+Email: [donoriono@gmail.com](mailto:donoriono@gmail.com)
