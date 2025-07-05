@@ -1,17 +1,16 @@
-## Hi!
+### Python Backend Developer
+I develop web applications using **Python** as my main language, with experience in **Flask** and **Django** frameworks.
 
-#### I'm Python Backend Developer
+Key technical skills:  
+- Containerization: **Docker**
+- Databases: **PostgreSQL**
+- Version control: **Git**
+- Self-managed deployment
 
-I build web applications using **Python** in my free time.  
-My main tools:  
-- **Flask** and **Django** frameworks  
-- **Docker** for containers  
-- **PostgreSQL** databases  
-- **Git** for code management  
+Daily tools include VS Code and Linux terminals. Keep learning new technologies.
 
-I deploy projects myself. I code in VS Code and use terminals.
+Graduate of [HEXLET](https://ru.hexlet.io/) Python Developer programm.
 
-Always learning new things. Finished [HEXLET](https://ru.hexlet.io/) Python Developer course.
+Available for collaboration on web projects.
 
-Open to work together on web projects.  
-Email: [donoriono@gmail.com](mailto:donoriono@gmail.com)
+Contact: [donoriono@gmail.com](mailto:donoriono@gmail.com)
