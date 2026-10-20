@@ -17,9 +17,10 @@ people, for free. That is why TaskMan and Lex are published on RuStore and AppGa
   moderation.
 - **[TaskMan](https://github.com/Onoiro/TaskMan)** - a task manager for small teams and families.
   Django and Docker Compose, CI with deploy to staging, interface in 8 languages.
+  Live at [taskman.tech](https://taskman.tech).
 - **[Radio Andrews](https://github.com/Onoiro/radio_andrews)** - an internet radio station on Flask,
   Icecast and Liquidsoap. It plays tracks I wrote myself: the rap lyrics are mine, the music was
-  made with Suno.
+  made with Suno. Live at [andrews.2-way.ru](https://andrews.2-way.ru).
 
 **Tools I use**
 
